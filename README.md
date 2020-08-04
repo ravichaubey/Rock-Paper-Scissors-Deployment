@@ -1,4 +1,4 @@
-![](https://thumbs.dreamstime.com/b/rock-paper-scissors-hand-gesture-146405392.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/61QkvmvEdVL.png)
 
 ## Tools Used
 
@@ -7,8 +7,7 @@
 
 ## How to run :-
 
-1. This model has been deployed to github, Please run using given link
-**Please run model in browser [right here](https://ravichaubey.github.io/Rock-Paper-Scissors-Deployment/).**
+1. This model has been deployed to github, **Please run model in browser [right here](https://ravichaubey.github.io/Rock-Paper-Scissors-Deployment/).**
 
 2. Record atleast 10 sample of each rock, paper and scissor.
 
