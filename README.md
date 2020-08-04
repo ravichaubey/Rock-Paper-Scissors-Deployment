@@ -1,11 +1,17 @@
-## Introduction to Deep Learning
+![](https://thumbs.dreamstime.com/b/rock-paper-scissors-hand-gesture-146405392.jpg)
 
-Deep learning is an AI function that mimics the workings of the human brain in processing data for use in detecting objects, recognizing speech, translating languages, and making decisions. Deep learning AI is able to learn without human supervision, drawing from data that is both unstructured and unlabeled.
+## Tools Used
 
-## Project Discription
+1. HTML
+2. tensorflow.js
 
-![](https://images.immediate.co.uk/production/volatile/sites/4/2019/01/GettyImages-91481357-crop-3c9ce73.jpg?quality=90&crop=4px%2C129px%2C931px%2C401px&resize=931%2C396)
+## How to run :-
 
-Learn how to deploy deep learning model built using **tensorflow.js**. Different types of Neural Network layers has been used. Architecture is somewhat similar to AlexNET that is **CNN ==> Max Pool ==> CNN ==> Max Pool ----- Flatten==> Fully Connected Layers** and an Output layer.
+1. This model has been deployed to github, Please run using given link
+**Please run model in browser [right here](https://ravichaubey.github.io/Rock-Paper-Scissors-Deployment/).**
 
-[See Project in Action](https://ravichaubey.github.io/Rock-Paper-Scissors-Deployment/)
+2. Record atleast 10 sample of each rock, paper and scissor.
+
+3. Click on train model and wait for few second for model training.
+
+4. Now start prediction.
